@@ -4,5 +4,5 @@
 
 - Shaurya
 - Satyam
--sakshi 
--Aakriti 
+-sakshi
+-Aakriti
